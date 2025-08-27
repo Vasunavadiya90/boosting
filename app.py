@@ -4,3 +4,6 @@ def multiply(X,y):
 
 def devide(m,n):
     return m/n
+
+def addition(p,w):
+    return p+w
